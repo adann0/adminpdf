@@ -36,3 +36,5 @@ Simple index/backup for my favorite resources.
 "Interdire l’accès à Internet depuis les postes ou serveurs utilisés pour l’administration du système d’information."
 
 "Fortement recommandé d’établir un tunnel VPN IPsec entre le poste nomade et une passerelle VPN IPsec mise à disposition par l’entité. Pour garantir un niveau de sécurité optimal, ce tunnel VPN IPsec doit être automatiquement établi et ne pas être débrayable par l’utilisateur, c’est-à-dire qu’aucun flux ne doit pouvoir être transmis en dehors de ce tunnel."
+
+"Le poste d’administration doit être géré par l’entité – ou à défaut un prestataire man- daté. En aucun cas l’utilisation d’un équipement personnel ne doit être tolérée pour l.’administration d’un SI."
