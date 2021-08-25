@@ -8,8 +8,8 @@ Simple index/backup for my favorite resources.
 
 ## Referentiel (Technical)
 
-- https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/referentiels-exigences/
-- https://www.ssi.gouv.fr/administration/guide/referentiel-dexigences-de-securite-pour-les-prestataires-dintegration-et-de-maintenance-de-systemes-industriels/
+- Admin : https://www.ssi.gouv.fr/administration/guide/referentiel-dexigences-de-securite-pour-les-prestataires-dintegration-et-de-maintenance-de-systemes-industriels/
+- Pentesters : https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/referentiels-exigences/
 
 ## More Precise Infos
 
