@@ -13,6 +13,8 @@ Simple index/backup for my favorite resources.
 
 "Le stockage amovible ainsi que le stockage interne du terminal doivent être chiffrés par l’utilisation d’une solution de chiffrement robuste."
 
+"Pour éviter toute indiscrétion lors de déplacements, notamment dans les transports ou les lieux d’attente, un filtre de confidentialité doit être posi- tionné sur chaque écran."
+
 - https://www.ssi.gouv.fr/administration/guide/guide-dhygiene-informatique/
 - https://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-aux-ordiphones/
 
