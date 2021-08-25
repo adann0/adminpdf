@@ -42,4 +42,4 @@ Simple index/backup for my favorite resources.
 3 niveaux (du meilleur en sécurité au moins bon) :
 - un poste d’administration dédié (non connecté a internet, mais connecté au reseau local), et un poste bureautique dédié (non connecté au reseau local, mais connecté a internet);
 - un poste d’administration multi-niveaux (on parle ici d'un ordinateur dont l'objectif est d'avoir 2 virtual machine avec un "noyau durci et évalué" ; une machine virtuelle s'occupera de la SI bureatique, l'autre de l'administration - il est interdit d'avoir uniquement 1 vm avec l'os hote executant des taches bureautique ou admin) ;
-- un poste d’administration avec accès distant à un SI bureautique.
+- un poste d’administration avec accès distant à un SI bureautique (se referer a ce guide dans ce cas pour les bonnes pratiques https://www.ssi.gouv.fr/administration/guide/securiser-ladministration-des-systemes-dinformation/).
