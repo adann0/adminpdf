@@ -15,9 +15,13 @@ Simple index/backup for my favorite resources.
 
 "Pour éviter toute indiscrétion lors de déplacements, notamment dans les transports ou les lieux d’attente, un filtre de confidentialité doit être positionné sur chaque écran."
 
+"Pour les besoins spécifiques d’authentification aux portails captifs, l’entité peut choisir de déroger à la connexion automatique en autorisant une connexion à la demande ou maintenir cette recommandation en encourageant l’utilisateur à __utiliser un partage de connexion sur un téléphone mobile de confiance.__"
+
 - https://www.ssi.gouv.fr/administration/guide/guide-dhygiene-informatique/
 - https://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-aux-ordiphones/
 
 ## Admin
 
 "Interdire l’accès à Internet depuis les postes ou serveurs utilisés pour l’administration du système d’information."
+
+"Fortement recommandé d’établir un tunnel VPN IPsec entre le poste nomade et une passerelle VPN IPsec mise à disposition par l’entité. Pour garantir un niveau de sécurité optimal, ce tunnel VPN IPsec doit être automatiquement établi et ne pas être débrayable par l’utilisateur, c’est-à-dire qu’aucun flux ne doit pouvoir être transmis en dehors de ce tunnel."
