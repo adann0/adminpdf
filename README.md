@@ -6,6 +6,7 @@ Simple index/backup for my favorite resources.
 
 - https://www.ssi.gouv.fr/administration/bonnes-pratiques/
 - https://www.ssi.gouv.fr/administration/guide/securiser-ladministration-des-systemes-dinformation/
+- https://www.ssi.gouv.fr/administration/guide/profils-de-protection-pour-les-systemes-industriels/
 
 ## User
 
