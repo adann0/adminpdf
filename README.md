@@ -40,6 +40,6 @@ Simple index/backup for my favorite resources.
 "Le poste d’administration doit être géré par l’entité – ou à défaut un prestataire man- daté. En aucun cas l’utilisation d’un équipement personnel ne doit être tolérée pour l.’administration d’un SI."
 
 3 niveaux (du meilleur en sécurité au moins bon) :
-- un poste d’administration dédié, et un poste bureautique dédié ;
+- un poste d’administration dédié (non connecté a internet, mais connecté au reseau local), et un poste bureautique dédié (non connecté au reseau local, mais connecté a internet);
 - un poste d’administration multi-niveaux ;
 - un poste d’administration avec accès distant à un SI bureautique.
