@@ -2,11 +2,16 @@
 
 Simple index/backup for my favorite resources.
 
-## Referentiel
+## Politiques (Legal Terms)
 
+- https://www.ssi.gouv.fr/entreprise/reglementation/protection-des-systemes-dinformations/la-politique-de-securite-des-systemes-dinformation-de-letat-pssie/
+
+## Referentiel (Technical)
+
+- https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/referentiels-exigences/
 - https://www.ssi.gouv.fr/administration/guide/referentiel-dexigences-de-securite-pour-les-prestataires-dintegration-et-de-maintenance-de-systemes-industriels/
 
-## General
+## More Precise Infos
 
 - https://www.ssi.gouv.fr/administration/bonnes-pratiques/
 - https://www.ssi.gouv.fr/administration/guide/securiser-ladministration-des-systemes-dinformation/
