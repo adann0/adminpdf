@@ -1,6 +1,6 @@
 # adminpdf
 
-Simple index for my favorite resources.
+Simple index/backup for my favorite resources.
 
 https://www.ssi.gouv.fr/administration/bonnes-pratiques/
 
