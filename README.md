@@ -17,3 +17,5 @@ Simple index/backup for my favorite resources.
 - https://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-aux-ordiphones/
 
 ## Admin
+
+"Interdire l’accès à Internet depuis les postes ou serveurs utilisés pour l’administration du système d’information."
