@@ -2,10 +2,15 @@
 
 Simple index/backup for my favorite resources.
 
+## Referentiel
+
+- https://www.ssi.gouv.fr/administration/guide/referentiel-dexigences-de-securite-pour-les-prestataires-dintegration-et-de-maintenance-de-systemes-industriels/
+
 ## General
 
 - https://www.ssi.gouv.fr/administration/bonnes-pratiques/
 - https://www.ssi.gouv.fr/administration/guide/securiser-ladministration-des-systemes-dinformation/
+- https://www.ssi.gouv.fr/administration/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/
 - https://www.ssi.gouv.fr/administration/guide/profils-de-protection-pour-les-systemes-industriels/
 
 ## User
